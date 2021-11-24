@@ -1,2 +1,5 @@
-# kubebar
-Menubar to easily switch between kubectl contexts
+# Kubebar
+
+Menu in your systray to easily switch between kubectl contexts.
+
+![](.github/screenshot.png)
